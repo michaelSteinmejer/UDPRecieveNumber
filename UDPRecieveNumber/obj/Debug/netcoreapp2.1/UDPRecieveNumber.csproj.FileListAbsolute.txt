@@ -1,0 +1,11 @@
+C:\Source\UDP\UDPRecieveNumber\UDPRecieveNumber\obj\Debug\netcoreapp2.1\UDPRecieveNumber.csprojAssemblyReference.cache
+C:\Source\UDP\UDPRecieveNumber\UDPRecieveNumber\obj\Debug\netcoreapp2.1\UDPRecieveNumber.csproj.CoreCompileInputs.cache
+C:\Source\UDP\UDPRecieveNumber\UDPRecieveNumber\obj\Debug\netcoreapp2.1\UDPRecieveNumber.AssemblyInfoInputs.cache
+C:\Source\UDP\UDPRecieveNumber\UDPRecieveNumber\obj\Debug\netcoreapp2.1\UDPRecieveNumber.AssemblyInfo.cs
+C:\Source\UDP\UDPRecieveNumber\UDPRecieveNumber\bin\Debug\netcoreapp2.1\UDPRecieveNumber.deps.json
+C:\Source\UDP\UDPRecieveNumber\UDPRecieveNumber\bin\Debug\netcoreapp2.1\UDPRecieveNumber.runtimeconfig.json
+C:\Source\UDP\UDPRecieveNumber\UDPRecieveNumber\bin\Debug\netcoreapp2.1\UDPRecieveNumber.runtimeconfig.dev.json
+C:\Source\UDP\UDPRecieveNumber\UDPRecieveNumber\bin\Debug\netcoreapp2.1\UDPRecieveNumber.dll
+C:\Source\UDP\UDPRecieveNumber\UDPRecieveNumber\bin\Debug\netcoreapp2.1\UDPRecieveNumber.pdb
+C:\Source\UDP\UDPRecieveNumber\UDPRecieveNumber\obj\Debug\netcoreapp2.1\UDPRecieveNumber.dll
+C:\Source\UDP\UDPRecieveNumber\UDPRecieveNumber\obj\Debug\netcoreapp2.1\UDPRecieveNumber.pdb
